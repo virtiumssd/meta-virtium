@@ -8,8 +8,8 @@ INHIBIT_PACKAGE_STRIP = "1"
 PR = "r1"
 
 SRC_URI = "file://COPYING ftp://10.10.33.13/public/${PN}-${PV}.tar.bz2"
-SRC_URI[md5sum] = "d7f3f7d2037a4a27355bc241800bd940"
-SRC_URI[sha256sum] = "4873086f193b9f0e1ffafd5e0f26bba586847397ccc8dcd8374d3ef024e156af"
+SRC_URI[md5sum] = "b83d835442694a6bc105c65eed56a2f7"
+SRC_URI[sha256sum] = "42d235582aab7173a26e954bce7e332532cfb817e5a2876c53f91715413f6d39"
 
 inherit systemd    
 SYSTEMD_SERVICE_${PN} = "vtView.service"
