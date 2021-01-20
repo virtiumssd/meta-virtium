@@ -7,7 +7,7 @@ INHIBIT_PACKAGE_STRIP = "1"
 
 PR = "r1"
 
-SRC_URI = "file://COPYING ftp://10.10.33.13/public/vtview-${PV}.tar.bz2"
+SRC_URI = "file://COPYING ftp://10.10.33.13/public/x86-64/vtview-${PV}.tar.bz2"
 SRC_URI[md5sum] = "b83d835442694a6bc105c65eed56a2f7"
 SRC_URI[sha256sum] = "42d235582aab7173a26e954bce7e332532cfb817e5a2876c53f91715413f6d39"
 

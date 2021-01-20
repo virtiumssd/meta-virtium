@@ -7,7 +7,7 @@ INHIBIT_PACKAGE_STRIP = "1"
 
 PR = "r1"
 
-SRC_URI = "file://COPYING ftp://10.10.33.13/public/dataretentiontest-${PV}.tar.bz2"
+SRC_URI = "file://COPYING ftp://10.10.33.13/public/x86-64/dataretentiontest-${PV}.tar.bz2"
 SRC_URI[md5sum] = "0df71c5700ec37a508cf6df566f7e141"
 SRC_URI[sha256sum] = "9bc7d1df478d3a74dbe9ce954e9d74858583aa4c2af7a7419a891572daf8a03f"
 

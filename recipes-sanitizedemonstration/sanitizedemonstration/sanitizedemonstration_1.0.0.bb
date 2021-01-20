@@ -7,7 +7,7 @@ INHIBIT_PACKAGE_STRIP = "1"
 
 PR = "r1"
 
-SRC_URI = "file://COPYING ftp://10.10.33.13/public/sanitizedemonstration-${PV}.tar.bz2"
+SRC_URI = "file://COPYING ftp://10.10.33.13/public/x86-64/sanitizedemonstration-${PV}.tar.bz2"
 SRC_URI[md5sum] = "6515c7544a04e5b9fb214921369336ce"
 SRC_URI[sha256sum] = "9dde1b7b46e8045ddf94e2c74f155b58d660733c2cf2e96ec876790d1cfd5f84"
 
